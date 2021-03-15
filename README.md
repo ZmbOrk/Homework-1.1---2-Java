@@ -13,8 +13,8 @@
 На тестирование затрачено: <40 минут>
 
 В результате тестирования выявлены следующие дефекты:
-* <[#1](https://github.com/ZmbOrk/Homework-1.1---2-Java/issues/1)>
-* <[#2](https://github.com/ZmbOrk/Homework-1.1---2-Java/issues/2)>
+* <[#1 Некорректные валидные ключи в руководстве пользователя](https://github.com/ZmbOrk/Homework-1.1---2-Java/issues/1)>
+* <[#2 В руководстве пользователя указан некорректный валидный ключ ](https://github.com/ZmbOrk/Homework-1.1---2-Java/issues/2)>
 
 ## Описание процесса тестирования
 
